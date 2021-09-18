@@ -12,3 +12,6 @@ Toutes les vues sont dans le dossier templates.
 
 
 Tous ce qui sera visible publiquement sera present dans le dossier public (css, js, ...). Le dossier public est celui qui sera utilisé par defaut pour lancer l'autoloader et le kernel du mvc.
+
+
+Project created by PONCET Gerald
